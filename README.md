@@ -1,16 +1,155 @@
-## Hi there 👋
+Design Style
+────────────────────────────────────
+          Animated Banner
+────────────────────────────────────
 
-<!--
-**yogeshscore442/yogeshscore442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        👋 Hi, I'm Yogesh M S
 
-Here are some ideas to get you started:
+Cybersecurity | SOC Analyst | DFIR
+Blue Team | Threat Hunting | SIEM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Typing Animation
+
+Social Links
+
+About Me
+
+Tech Stack
+
+GitHub Statistics
+
+Featured Projects
+
+Currently Learning
+
+Certifications
+
+Connect with Me
+
+Contribution Snake
+Banner
+
+Use
+
+Capsule Render
+
+Dark blue gradient with
+
+Yogesh M S
+
+Cybersecurity Engineer
+
+SOC Analyst • DFAP • Threat Hunter
+Typing Animation
+Cybersecurity Engineer
+SOC Analyst
+Blue Team Enthusiast
+Threat Hunter
+Bug Bounty Learner
+Python Developer
+Linux Enthusiast
+Always Learning...
+Tech Stack
+Security
+Splunk
+Wireshark
+Burp Suite
+Nmap
+Metasploit
+OWASP
+Kali Linux
+Autopsy
+Volatility
+Programming
+Python
+C
+Java
+Bash
+SQL
+Cloud
+AWS
+Azure
+Tools
+Git
+GitHub
+VS Code
+VirtualBox
+Docker
+GitHub Stats
+
+Include
+
+GitHub Stats
+Top Languages
+GitHub Streak
+Activity Graph
+
+These dynamic cards are among the most widely used profile enhancements.
+
+Featured Projects
+
+⭐ Smart Rogue Device Detection
+
+Machine Learning based rogue device detection
+
+⭐ Email Spam Classifier
+
+Spam Detection using NLP
+
+⭐ Sleep Quality Predictor
+
+Machine Learning Healthcare Project
+
+⭐ Penetration Testing Automation Toolkit
+
+Automated security assessment using Python
+Current Learning
+✔ SOC Investigation
+
+✔ Splunk
+
+✔ DFIR
+
+✔ Threat Hunting
+
+✔ Malware Analysis
+
+✔ AWS Security
+
+✔ Bug Bounty
+Certifications
+Google Cybersecurity
+
+Cisco Networking
+
+TryHackMe
+
+Hack The Box
+
+AWS Cloud Practitioner
+Contact
+LinkedIn
+Gmail
+Portfolio
+GitHub
+Nice Extras
+Visitor Counter
+Profile Views
+GitHub Trophy
+Snake Animation
+Activity Graph
+Random Dev Quote
+
+These are popular additions for modern profile READMEs.
+
+Color Theme
+Black
+Dark Navy
+Blue
+Purple
+
+Minimal.
+
+Professional.
+
+Cybersecurity feel.
