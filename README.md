@@ -14,6 +14,20 @@
 - 🐍 Building Security Tools with Python
 - 🚀 Goal: Become a SOC Analyst & Cybersecurity Engineer
 
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn">
 
-  
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash,linux,kali,aws,docker,git,github,vscode,html,css,js,react,nodejs,flask,mysql,mongodb,postman,rust&theme=dark&perline=7" />
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yogeshscore442&theme=tokyonight&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogeshscore442&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+</p>
+
