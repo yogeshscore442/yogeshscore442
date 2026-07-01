@@ -14,4 +14,6 @@
 - 🐍 Building Security Tools with Python
 - 🚀 Goal: Become a SOC Analyst & Cybersecurity Engineer
 
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn">
+
   
